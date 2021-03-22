@@ -23,15 +23,14 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Arturo Alvarado
 Technologies:
-FRAMEWORK
-laravel 6
-php 7
-composer 2.0.11
-git 
-heroku
-bootstrap
-XAMP
-MYSQL
+- laravel 6
+- php 7
+- composer 2.0.11
+- git 
+- heroku
+- bootstrap
+- XAMP
+- MYSQL
 
 ## Learning Laravel
 
